@@ -1,0 +1,84 @@
+.task8-p1{
+    color: pink;
+    background-image: url('/assets/images/offwhite.jpg');
+}
+.task8-p2{
+    color: white;
+    background-image: url('/assets/images/blue.jfif');
+}
+.task8-p3{
+    color: white;
+    background-image: url('/assets/images/purble1.jpg'), url('/assets/images/pink.avif'); 
+    background-repeat: no-repeat, repeat; 
+    background-position: center, right bottom; 
+}
+.task-8{
+    background-color: aqua;
+    height: 500px;
+}
+
+.task10-blue{
+    background-color: aqua;
+}
+.task10-pink{
+    background-color: pink;
+}
+#task10-orange{
+    background-color: orange;
+}
+
+.task11-container {
+    background-color: rgb(198, 158, 164);
+    border: 5px solid black;
+    width: 90%;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.task11-header {
+    text-align: center;
+    background-color: rgb(132, 61, 61);
+    color: white;
+    padding: 15px;
+    margin-top: 1px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;}
+
+    .contact-form input,
+.contact-form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+
+
+}
+
+.contact-form textarea {
+    resize: vertical; 
+}
+
+.send-button {
+    background-color: yellow; 
+    border: black 1px solid;
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+
+.task12{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom left, 
+        #1f1f7a 0%, 
+        #80005a 50%, 
+        #d4ff00 50%, 
+        #05c605 100%
+    );
+    height: 100px;
+
+}

@@ -1,0 +1,276 @@
+.task1{
+    display: flex;
+    border: 1px solid purple;
+    width: 100%;
+    height: 500px;
+    background-color: blueviolet;
+}
+
+.task1-box{
+    border: 1px solid white;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    background-color: white;
+}
+
+.navbar{
+    display: flex;
+    border: 1px solid black;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.nav-links{
+    display: flex;
+}
+
+.nav-links li{
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+    padding: 20px;
+
+
+} .red-circle{
+    background-color: red;
+    border: red 1px solid;
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.task3{   
+     border: 1px solid black;
+     width: 500px;
+    height: 500px;
+    background-color: aqua;
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.center-me{
+    border: 1px solid black;
+    width: 100px;
+    height: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: blue;
+    color: aliceblue;
+
+}
+
+.task4{display: flex;
+    margin-top: 10px;
+}
+
+.task4-box{
+    display: flex;
+border: 1px solid blue;
+border-radius: 20px;
+width: 200px;
+height: 180px;
+margin: 2px;
+background-color: aquamarine;
+display: flex;
+  padding: 0 20px; 
+
+}
+
+.task5{
+    width: 30%;
+    height: 300px;
+    justify-content: space-around;
+
+}
+
+.task5-row{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+
+    
+}
+
+.task5-box{
+    display: flex;
+    border: 2px blue double;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    padding: 0 20px; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    color: white;
+    background-color: blue;
+
+}
+
+.task6{
+    display: flex;
+    border: 1px solid yellow;
+    width: 60%;
+    height: 200px;
+    align-items: flex-start;
+}
+
+.task6-1{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task6-2{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task6-3{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task6-4{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 160px;
+}
+.task6-5{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+align-self: center;    
+}
+.task6-6{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task6-7{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task6-8{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task6-9{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.task6-10{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
+
+.task7{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 100%;
+    height: 600px;
+    margin-top: 20px;
+}
+
+.task8{
+    display: flex;
+    width: 100%;
+    height: 40px;
+}
+
+.task8-1{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    flex-grow: 1; 
+
+}
+.task8-2{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    width: 30%;
+
+}
+
+.task9{display: flex;
+flex-wrap: wrap;
+}
+
+
+.task8-item{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    flex-wrap: wrap;
+}

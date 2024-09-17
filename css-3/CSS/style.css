@@ -1,0 +1,183 @@
+.task1{
+    background-color: yellow;
+    padding: 20px;
+}
+.task2-boxes{
+    display: flex;
+}
+.task2-container{
+    margin-top: 40px;
+    background-color: blanchedalmond;
+}
+.box{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.task2-text{
+    margin-top: 30px;
+}
+
+.task3-1{
+    border: 3px ridge black;
+    width: 100px;
+    margin: 10px;
+}
+.task3-2{border: 3px solid black;
+    width: 100px;
+    margin: 10px;
+}
+.task3-3{border: 3px double black;
+    width: 120px;
+    margin: 10px;
+}
+
+.task4{
+    border: 1px black solid;
+    width: 300px;
+    box-shadow: 5px 7px 5px 5px;
+}
+
+.task5-6{
+    background-color: yellow;
+    padding: 20px;
+border: 5px solid black;
+width: 500px;
+margin: 20px;
+
+}
+
+.task7{
+    font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            border: 10px double rgba(96, 50, 50, 0.756);
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            width: 400px;
+}
+
+.task8-text{
+text-align: center;
+}
+.aqua{
+    background-color: aqua;
+    width: 100%;
+height: 70px;}
+.pink{ 
+        background-color: pink;
+        width: 100%;
+    height: 70px;}
+
+    .task9-container{
+        background-color: black;
+        height: 500px;
+        width: 100%;
+        display: grid;
+        place-items: center; 
+  
+    }
+    .task9{
+        border: 1px blue solid;
+        box-shadow: 0 0 15px blue; 
+        width: 150px;
+        height: 200px;
+        background-color: white;
+        display: grid;
+        place-items: center; 
+      
+
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .box {
+        position:relative;
+        width: 200px;
+        height: 100px;
+        border: none; 
+
+    }
+    .box-1 {
+        box-shadow: 0 0 10px blue;
+    }
+    .box-2 {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        width: 100%;
+        height: 100%;
+        box-shadow: 0 0 10px green;
+    }
+    .box-3 {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        width: 100%;
+        height: 100%;
+        box-shadow: 0 0 10px orange;
+    }
+    .box-4 {
+        position: absolute;
+        top: 30px;
+        left: 30px;
+        width: 100%;
+        height: 100%;
+        box-shadow: 0 0 10px pink;
+    }
+    .box-5 {
+        position: absolute;
+        top: 40px;
+        left: 40px;
+        width: 100%;
+        height: 100%;
+        box-shadow: 0 0 10px red;
+    }
+
+
+    .border-box {
+        width: 200px;
+        height: 150px;
+        margin: 10px;
+        padding: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+    .solid {
+        border: 5px solid black;
+    }
+    .dashed {
+        border: 8px dashed orange;
+        margin: 10px;
+    }
+    .dotted {
+        border: 5px dotted green;
+    }
+    .double {
+        border: 5px double orange;
+    }
+    .groove {
+        border: 5px groove purple;
+    }
+    .ridge {
+        border: 5px ridge red;
+    }
+    .task12{
+        border: 2px solid brown;
+        background-color: antiquewhite;
+    }
+    .text-12{
+        width: 200px;
+        height: 200px;
+        overflow: scroll;
+        background-color: yellow;
+    }

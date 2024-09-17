@@ -1,0 +1,40 @@
+.task13-table, tr, td{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: aqua;
+}
+
+.task13-head td{
+    text-align: center;
+    background-color: yellow;
+}
+
+.task13-button{
+    width: 100px;
+    height: 50px;
+}
+.task14{
+    width: 100%; 
+    height: 300px; 
+    background-image: url('/assets/images/pink.avif'), url('/assets/images/fish.jpg');
+    background-repeat: repeat-x,repeat-y;
+}
+.task15-img{
+    border: 7px solid green;
+    border-radius: 70px;
+    width: 100px;
+    height: 100px;
+}
+
+.task15-p{
+    background-color: rgb(183, 224, 224);
+}
+.task15-form{
+    background-color: green;
+}
+.task16{
+    background-color: bisque;
+}
+.task16-text{
+    color: red;
+}

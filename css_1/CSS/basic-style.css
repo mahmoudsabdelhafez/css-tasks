@@ -1,0 +1,45 @@
+.red{
+color: red;}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.external1{
+    color: pink;
+    font-size: 8px;
+}
+
+.external2{
+    color: yellow;
+    font-size: 3rem;
+}
+
+.background-img{
+    background-image: url('/assets/images/aqua.avif');
+}
+
+.background-img-vertically{
+    background-image: url('/assets/images/aqua.avif');
+    background-repeat: repeat-y;
+}
+
+.task6{
+    color: blue;
+}
+
+#task7-green{
+    color: green;
+}
+
+#task7-red{
+    color: red;
+}

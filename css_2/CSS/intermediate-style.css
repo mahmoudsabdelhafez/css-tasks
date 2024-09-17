@@ -1,0 +1,72 @@
+.task7-1{
+    color: red;
+    font-size: 30px;
+}
+
+.task7-2{
+    color: green;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.task7-3{
+
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.task7-4{
+    color: pink;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+font-size: 26ox;}
+
+.task7-5{
+    color: orange;
+
+}
+
+.task7-6{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color: yellow;
+}
+
+.container {
+    width: 200px;
+    height: 100px;
+    border: 2px solid #000;
+    margin-bottom: 70px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.visible {
+    overflow: visible;
+    background-color: antiquewhite;
+}
+.hidden {
+    overflow: hidden;
+    background-color: aqua;
+}
+.scroll {
+    overflow: scroll;
+    background-color: bisque;
+}
+.auto {
+    overflow: auto;
+    background-color: azure;
+}
+.overflow-x {
+    width: 200px;
+    height: 100px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.overflow-y {
+    width: 200px;
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+    
+

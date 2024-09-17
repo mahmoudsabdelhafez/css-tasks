@@ -1,0 +1,39 @@
+.task1-overline{
+    text-decoration: overline;
+    text-decoration-color: green;
+}
+.task1-overline-underline{
+    text-decoration: overline  underline;
+    text-decoration-color: blue;
+    
+}
+.style3{
+    width: 700px;
+}
+.task6-1{
+    opacity: 1;
+    background-color: red;
+    height: 50px;
+    font-size: 30px;
+}
+.task6-2{
+    opacity: 0.5;
+    background-color: red;
+    height: 50px;
+    font-size: 30px;
+
+}
+.task6-3{
+    opacity: 0.25;
+    background-color: red;
+    height: 50px;
+    font-size: 30px;
+
+}
+.task6-4{
+    opacity: 0;
+    background-color: red;
+    height: 50px;
+    font-size: 30px;
+
+}
